@@ -1,0 +1,1 @@
+g++ -o clock2 clock2.cpp -IC:/Libraries/SDL2/include -LC:/Libraries/SDL2/lib -lmingw32 -lSDL2main -lSDL2 -lSDL2_ttf -mwindows
